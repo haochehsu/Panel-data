@@ -1,8 +1,8 @@
 # Panel-data
 
-The DGP has 400 obervations with 5 periods and 5 attributes. The true parameters including an intercept <img src=
+The DGP has 400 observations with 5 periods and 5 attributes. The true parameters including an intercept <img src=
 "https://render.githubusercontent.com/render/math?math=%5Cdisplaystyle+%5Cbeta%3D%281%2C+2%2C+3%2C+4%2C+5%29" 
-alt="\beta=(1, 2, 3, 4, 5)">. The model is specified as following
+alt="\beta=(1, 2, 3, 4, 5)">. The model is specified as follows
 
 <img src=
 "https://render.githubusercontent.com/render/math?math=%5Cdisplaystyle+y_i%3DX_i%5Cbeta%2BW_ib_i%2B%5Cepsilon_i" 
@@ -102,6 +102,6 @@ The estimated parameters are
 "https://render.githubusercontent.com/render/math?math=%5Cdisplaystyle+%5Chat%7B%5Cbeta%7D%3D%5C%7B1.0176%2C+2.0090%2C+2%2C0068%2C+3.9987%2C+4.9888%5C%7D" 
 alt="\hat{\beta}=\{1.0176, 2.0090, 2,0068, 3.9987, 4.9888\}">.
 
-The sampling process can be illustreated in the following graph:
+The sampling process can be illustrated in the following graph:
 
 <center><img src="./images/Panel_Gibbs.png" width="90%"></center>
