@@ -104,3 +104,4 @@ alt="\hat{\beta}=\{1.0176, 2.0090, 2,0068, 3.9987, 4.9888\}">.
 
 The sampling process can be illustreated in the following graph:
 
+<center><img src="./images/Panel_Gibbs.png" width="90%"></center>
